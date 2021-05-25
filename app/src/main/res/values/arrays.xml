@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>Cом</item>
+        <item>Карп</item>
+        <item>Щука</item>
+        <item>Осетр</item>
+        <item>Налим</item>
+
+    </string-array>
+
+    <string-array name="na_array">
+        <item>Червяк</item>
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Рис</item>
+
+    </string-array>
+    <string-array name="sn_array">
+        <item>Леска</item>
+        <item>Грузила</item>
+        <item>Крючки</item>
+        <item>Влесна</item>
+
+    </string-array>
+    <string-array name="fish_story">
+        <item>Рыбак и Море</item>
+        <item>На дону </item>
+        <item>Рыба и щука</item>
+        <item>Золотая рыба </item>
+        <item>Случай на рыбалке</item>
+
+    </string-array>
+    <string-array name="useful_advices">
+        <item>Сезон рыбалки</item>
+        <item>Советы по прикормке</item>
+        <item>На что клюет</item>
+        <item>Большая уловка</item>
+        <item>Совет 5</item>
+        <item>Совет 6</item>
+
+
+    </string-array>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="main_text_size_array">
+        <item>Большой</item>
+        <item>Средний</item>
+        <item>Маленький</item>
+    </string-array>
+    <string-array name="fish_array_2">
+        <item>Карпиус</item>
+        <item>Щукариус</item>
+        <item>Сомариус</item>
+        <item>Осетрариус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+        <item>Налимиус</item>
+    </string-array>
+
+</resources>
